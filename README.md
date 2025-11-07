@@ -123,18 +123,6 @@ vibe-commerce/
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Product Page
-![Products](./screenshots/Screenshot2025-11-08001241.png)
-
-### 🛒 Cart Page
-![Cart](./screenshots/Screenshot2025-11-08001257.png)
-
-### 🧾 Receipt
-![Receipt](./screenshots/Screenshot2025-11-08001322.png)
-
----
 
 ## 🧰 Commands Summary
 
@@ -162,5 +150,6 @@ npm run dev
 ---
 
 
-> Built using React, Node.js, Express, and SQLite  
-> Submission for **Vibe Commerce Internship Screening**
+> Built using React, Node.js, Express, and SQLite.
+> Screenshots of the working application are added in the **`/screenshots`** folder.
+> Submission for **Vibe Commerce Internship Screening**.
